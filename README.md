@@ -20,3 +20,14 @@ The Task Management System is a web application built using React, Next.js, and 
 - **Authentication**: JWT-based authentication
 - **State Management**: Context
 
+## Core Functionalities
+
+### Task Management
+- Manage User related task.
+- Add, edit, view, and delete task details.
+- filtered task base on priority
+### Dashboard
+- *Pie Chart:* Visualize data like task allocation.
+- display login user's task
+
+*Frontend Screenshots:* [View Screenshots](https://drive.google.com/drive/folders/1bby79X6Qwy_NI9m23ISWk3GV935wVwaY?usp=drive_link )
